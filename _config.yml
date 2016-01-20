@@ -1,7 +1,7 @@
 name: LWA
 favicon: null
-layout_spectrum: 0.46281474037095904
-typography_spectrum: 0.15344388969242573
+layout_spectrum: 1
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.9817182067781687
-  lightness: 0.7329775639809668
-  saturation: 0.856307607376948
-  rhythmicContrast: 0.24132096208631992
+    - '#e44436'
+    - '#ffffff'
+    - '#b9b9af'
+    - '#e39189'
+    - '#6a2c15'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
